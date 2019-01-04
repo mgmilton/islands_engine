@@ -5,10 +5,12 @@
                         'Elixir.IslandsEngine.Application',
                         'Elixir.IslandsEngine.Board',
                         'Elixir.IslandsEngine.Coordinate',
+                        'Elixir.IslandsEngine.DemoProc',
+                        'Elixir.IslandsEngine.Game',
+                        'Elixir.IslandsEngine.GameSupervisor',
                         'Elixir.IslandsEngine.Guesses',
                         'Elixir.IslandsEngine.Island',
                         'Elixir.IslandsEngine.Rules']},
               {registered,[]},
               {vsn,"0.1.0"},
-              {extra_applications,[logger]},
               {mod,{'Elixir.IslandsEngine.Application',[]}}]}.
